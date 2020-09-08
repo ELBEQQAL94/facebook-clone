@@ -1,0 +1,24 @@
+// main colors
+$main-color: #000000;
+$white: #fff;
+$hulu-color: #6DE883;
+
+// responsive
+$md: 767px;
+$sm: 575px;
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  // width: 100vw;
+  background-image: linear-gradient(
+    to right,
+    #051421,
+    #042727
+  )
+}
+
