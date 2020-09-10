@@ -16,36 +16,27 @@
 * [x] Add prop types
 * [x] Deploy application on vercel
 * [x] Install Material UI
-* [x] Add Header component
-* [x] Add NavBar
-* [x] Add Results
-* [x] Add filter
-* [x] Add active class
+* [x] Add firebase
 * [x] Add Footer
-* [ ] Add Landing page
-* [ ] Add SignUp Page
-* [ ] Add Login Page
+* [x] Add Header
+  * [x] Logo + Search Box
+  * [x] Navbar
+  * [x] Profile Options
+* [ ] Add Sidebar
+* [ ] Add Feed
+* [ ] Add Skeleton
 
-## API's
+## Issues
 ----
-
-* https://api.themoviedb.org
+* [ ] Search Input on navbar should take full width on mobile.
 
 ## Deployement
 ----
 
 * Vercel
-*Live demo: https://hulu-clone.vercel.app/
+* Live demo: https://facebook-clone.vercel.app/
 
 ## Test Components
 ----
 
-* [ ] Navbar
-* [ ] Header
-* [ ] LeftContainer
-* [ ] RightContainer
-* [ ] Content
-* [ ] VideoCard
-* [ ] App
-* [ ] Add Footer
 
