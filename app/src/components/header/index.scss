@@ -10,10 +10,11 @@
   position: sticky;
   z-index: 100;
   top: 0;
-  -ms-overflow-style: none; // IE, Edge
-  scrollbar-width: none; // Firefox
-  overflow-y: hidden;
-  overflow-x: scroll;
+  // use this just on small screens
+  // -ms-overflow-style: none; // IE, Edge
+  // scrollbar-width: none; // Firefox
+  // overflow-y: hidden;
+  // overflow-x: scroll;
    // hide scroll bar on Chrome, Safari, and Opera
    &::-webkit-scrollbar {
     display: none;

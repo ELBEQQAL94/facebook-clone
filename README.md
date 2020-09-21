@@ -25,10 +25,12 @@
 * [ ] Add Sidebar
 * [ ] Add Feed
 * [ ] Add Skeleton
+* [ ] Add light theme
 
 ## Issues
 ----
 * [ ] Search Input on navbar should take full width on mobile.
+* [ ] Label don't diplay when user hover icon.
 
 ## Deployement
 ----

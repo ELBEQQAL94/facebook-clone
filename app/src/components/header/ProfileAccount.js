@@ -22,17 +22,17 @@ const ProfileAccount = () => {
         <h4>el beqqal</h4>
       </div>
       <div className="button__icon__container">
-        <IconButton>
+        <IconButton title="Create">
           <AddIcon />
         </IconButton>
       </div>
       <div className="button__icon__container">
-        <IconButton>
+        <IconButton title="Notifications">
           <NotificationsActiveIcon />
         </IconButton>
       </div>
       <div className="button__icon__container">
-        <IconButton>
+        <IconButton title="Account">
           <ArrowDropDownIcon />
         </IconButton>
       </div>
